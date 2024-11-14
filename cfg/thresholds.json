@@ -1,0 +1,8 @@
+{
+  "grounding": {"th1":0.5, "th2":0.6},
+  "satellite_dish": {"th1":0.6, "th2":0.8},
+  "cable_jack": {"th1":0.50, "th2":0.80},
+  "antenna_detection": {"th1":0.40, "th2":0.80},
+  "fire_ext": {"th1":0.50, "th2":0.80},
+  "screw_nuts": {"th1":0.60, "th2":0.80}
+}

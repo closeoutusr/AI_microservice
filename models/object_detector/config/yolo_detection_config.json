@@ -1,0 +1,13 @@
+{
+    "img_size": "(608,352)",
+    "half": "False",
+    "conf_thres": "0.3",
+    "iou_thres": "0.6",
+    "classes_filter": "None",
+    "agnostic_nms": "False",
+    "augment": "True",
+    "device": "",
+    "input_type": "img",
+    "fourcc": "mp4v",
+    "_paramaters_info": "Info on some paramaters: device id (i.e. 0 or 0,1) or cpu, if left empty - GPU is used (if GPU not disabled by default, if it is disabled CPU is used); input_type: img, vid or webcam; fourcc: output video codec (verify ffmpeg support)"
+}

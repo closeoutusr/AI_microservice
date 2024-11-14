@@ -1,0 +1,12 @@
+Flask==1.1.2
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+itsdangerous==1.1.0
+Werkzeug==1.0.1
+waitress==1.4.4
+Flask-HTTPAuth==4.1.0
+opencv-python==4.3.0.38
+torch==1.7.1
+matplotlib==3.2.2
+torchvision==0.8.2
+tqdm==4.62.3
